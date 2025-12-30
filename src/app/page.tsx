@@ -12,7 +12,7 @@ export default async function Home() {
       <header className="max-w-4xl mx-auto border-b-8 double border-zinc-800 pb-4 mb-12 text-center">
         <h1 className="text-8xl font-black uppercase tracking-tighter mb-2">The Vercel Times</h1>
         <div className="flex justify-between border-y border-zinc-800 py-1 uppercase text-sm font-bold">
-          <span>Vol. I — No. 001</span>
+          <span>Vol. I - No. 001</span>
           <span>Tuesday, December 30, 2025</span>
           <span>Price: Free</span>
         </div>
